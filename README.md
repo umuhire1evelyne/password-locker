@@ -35,30 +35,37 @@ python3.6 run.py
 
 * Python
 
-## Contributing
-
-Any contributions to this projects will be greatly appreciated. If you want to contribute to it, here are the suggested instructions:
-* Clone this GitHub repository to your local machine.
-```buildoutcfg
-git clone https://github.com/MercurialMune/Password-Locker.git
-```
-* Make your contributions.
-* Email me the zipped project at munenecyp@gmail.com , or
-* Request permissions to post your contribution at my GitHub repository through the same email address.
-
-Alternatively, you could email the main developer at munenecyp@gmail.com with ideas on how this project could be more effective, efficient or beneficial.
 
 ## Versioning
 Used GIT and GitHub. There are commits attached to the entire project to show the management of versions.
 
 ## Authors
 
- Cyprian Munene, any other contributor after the completion of the work can be viewed at this GitHub repository
+ Evelyne Umuhire, any other contributor after the completion of the work can be viewed at this GitHub repository
 
 ## Copyright
 
-All Rights Reserved by [@MercurialMune](https://github.com/MercurialMune)
+All Rights Reserved by (https://github.com/umuhire1evelyne/password-locker)
 Other GitHub can however fork or clone this repository provided the necessary credit is given to the original author
-## License
 
-This project is licensed under the MIT License. Moringa School moreover retains certain rights to elements in the code of this program.
+## Licence
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
