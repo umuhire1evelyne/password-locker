@@ -20,9 +20,9 @@ class TestUser(unittest.TestCase):
         """
         test_init test case to test if the object is properly initialized
         """
-        # self.assertEqual(self.new_credential.user_name, "user_name")
-        # self.assertEqual(self.new_credential.password, "password")
-        # self.assertEqual(self.new_credential.email, "email@gmail.com")
+        self.assertEqual(self.new_credential.user_name, "user_name")
+        self.assertEqual(self.new_credential.password, "password")
+        self.assertEqual(self.new_credential.email, "email@gmail.com")
 
     def test_save_cred(self):
         """
