@@ -19,10 +19,10 @@ class Credential:
         """
         Credential.credential_array.append(self)
 
-    @classmethod
-    def display_credential(cls):
-        """
-        method that returns the credential array
-        """
-        return cls.credential_array
+    # @classmethod
+    # def display_credential(cls):
+    #     """
+    #     method that returns the credential array
+    #     """
+    #     return cls.credential_array
 
