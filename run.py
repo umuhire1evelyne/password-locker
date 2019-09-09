@@ -74,7 +74,7 @@ def main():
         if short_code == 'ad':
             print("New User")
             print("-"*10)
-            print("Hey There!!! What site do you want to create an account for?")
+            print("Hello Dear!!! What site do you want to create an account for?")
             site = input()
             print(f"Aah!! So you love {site}?")
 
