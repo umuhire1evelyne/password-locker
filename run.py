@@ -27,14 +27,14 @@ def save_user(user):
     user.save_user_details()
 
 
-def save_cred(credential):
+def save_credential(credential):
     """
     Function to save user credentials
     """
     credential.save_credential()
 
 
-def del_user(user):
+def delete_user(user):
     """
     Function to delete a user
     """
