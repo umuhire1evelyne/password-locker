@@ -106,9 +106,9 @@ def main():
         elif short_code == 'ag':
             print("New User")
             print("-" * 10)
-            print("Hey There!!! What site do you want to create an account for?")
+            print("Hello Dear!!! What site do you want to create an account for?")
             site = input()
-            print(f"Aah!! So you love {site}?")
+            print(f"Uuuuuh!! So you love {site}?")
 
             print("First name ....")
             f_name = input()
