@@ -10,7 +10,7 @@ This project enables a user to store old accounts credentials and create new one
 To run the program, link all classes to the run file and use the following code at the beginning of your main code:
 
 ```buildoutcfg
-#!/usr/bin/env python3.6
+ python3.6
 ```
 At the terminal, run the following command:
 
